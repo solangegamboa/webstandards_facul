@@ -11,4 +11,5 @@ h2 {
 img {
     margin: 50px;
     position: relative;
+    max-width: 500px;
 }
